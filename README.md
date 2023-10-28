@@ -11,3 +11,4 @@
 
 [Desafio 4: Soccer Scripting](https://drive.google.com/file/d/1Q7_UheyN6N7eNulolWGmeZP-h8hTt1Q1/view?usp=sharing)
 
+[Desafio 5: Whack-a-Food](https://drive.google.com/file/d/1ErpbJODGIh0CwVvN0NRdjkBEkVvFXoIn/view?usp=sharing)
