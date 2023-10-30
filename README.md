@@ -14,5 +14,4 @@
 [Desafio 5: Whack-a-Food](https://drive.google.com/file/d/1ErpbJODGIh0CwVvN0NRdjkBEkVvFXoIn/view?usp=sharing)
 
 ### ♦Integrantes♦
-Christian Alejandro Velázquez Carranza
-Juan pablo Angel Mejia Cardenas
+Christian Alejandro Velázquez Carranza y Juan pablo Angel Mejia Cardenas
